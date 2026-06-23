@@ -1,0 +1,750 @@
+complaint_id,customer_id,complaint_type,complaint_date,complaint_status
+4001,1001,Payment Failure,2022-09-02,Closed
+4002,1002,Service Outage,2024-03-30,In Progress
+4003,1003,Payment Failure,2024-10-26,Closed
+4004,1003,Service Outage,2021-08-11,In Progress
+4005,1004,Poor Customer Support,2021-07-17,Resolved
+4006,1004,Plan Change Request,2022-01-16,Closed
+4007,1006,Poor Customer Support,2022-04-19,In Progress
+4008,1007,Network Issue,2021-06-02,Closed
+4009,1008,Payment Failure,2024-07-09,Closed
+4010,1008,Network Issue,2021-10-25,Closed
+4011,1008,Payment Failure,2021-08-21,Resolved
+4012,1011,Billing Issue,2023-06-25,Open
+4013,1011,Service Outage,2021-01-26,In Progress
+4014,1013,Service Outage,2021-10-30,In Progress
+4015,1013,Service Outage,2021-08-30,Resolved
+4016,1013,Service Outage,2024-03-30,Resolved
+4017,1014,Payment Failure,2021-01-19,Open
+4018,1014,Plan Change Request,2023-03-06,Resolved
+4019,1017,Poor Customer Support,2024-09-28,Resolved
+4020,1017,Poor Customer Support,2023-11-25,Resolved
+4021,1018,Payment Failure,2022-07-01,Closed
+4022,1018,Plan Change Request,2023-06-16,In Progress
+4023,1020,Payment Failure,2021-02-24,Closed
+4024,1021,Service Outage,2021-07-17,In Progress
+4025,1021,Service Outage,2022-06-20,Open
+4026,1022,Network Issue,2023-02-12,In Progress
+4027,1022,Billing Issue,2024-10-30,Resolved
+4028,1022,Payment Failure,2024-04-23,In Progress
+4029,1024,Plan Change Request,2024-02-27,Open
+4030,1026,Payment Failure,2023-05-19,In Progress
+4031,1026,Technical Problem,2021-05-15,Open
+4032,1027,Payment Failure,2024-09-30,In Progress
+4033,1027,Poor Customer Support,2024-05-14,Resolved
+4034,1028,Billing Issue,2024-08-02,Resolved
+4035,1029,Service Outage,2022-05-28,Resolved
+4036,1030,Plan Change Request,2024-09-04,Open
+4037,1030,Network Issue,2024-01-17,Closed
+4038,1030,Billing Issue,2024-07-31,Closed
+4039,1031,Plan Change Request,2022-02-10,Open
+4040,1031,Billing Issue,2021-12-21,Resolved
+4041,1031,Payment Failure,2022-05-11,Open
+4042,1032,Service Outage,2023-08-05,Closed
+4043,1034,Poor Customer Support,2023-11-04,In Progress
+4044,1034,Plan Change Request,2023-04-07,Open
+4045,1034,Payment Failure,2022-04-24,Closed
+4046,1035,Billing Issue,2023-05-02,In Progress
+4047,1036,Plan Change Request,2022-07-27,In Progress
+4048,1036,Network Issue,2021-03-11,In Progress
+4049,1037,Plan Change Request,2025-01-24,Resolved
+4050,1037,Technical Problem,2022-08-04,Closed
+4051,1039,Poor Customer Support,2023-11-17,Open
+4052,1039,Billing Issue,2024-02-11,Closed
+4053,1039,Poor Customer Support,2024-11-11,Resolved
+4054,1042,Network Issue,2024-03-09,Open
+4055,1042,Plan Change Request,2024-03-14,Open
+4056,1042,Payment Failure,2022-01-28,Open
+4057,1044,Poor Customer Support,2024-03-20,Open
+4058,1044,Network Issue,2023-01-19,Closed
+4059,1044,Network Issue,2021-03-04,Closed
+4060,1045,Technical Problem,2023-06-19,In Progress
+4061,1045,Payment Failure,2021-01-25,Open
+4062,1050,Plan Change Request,2023-07-17,Closed
+4063,1050,Poor Customer Support,2024-01-18,Open
+4064,1050,Plan Change Request,2022-11-12,Closed
+4065,1051,Billing Issue,2024-04-08,Closed
+4066,1051,Technical Problem,2021-01-10,Closed
+4067,1052,Billing Issue,2024-03-12,Resolved
+4068,1052,Poor Customer Support,2024-01-24,Closed
+4069,1052,Plan Change Request,2021-10-14,Resolved
+4070,1054,Service Outage,2025-01-22,In Progress
+4071,1054,Poor Customer Support,2024-03-03,Resolved
+4072,1054,Poor Customer Support,2023-06-20,Resolved
+4073,1055,Billing Issue,2021-03-13,Open
+4074,1055,Plan Change Request,2024-01-21,In Progress
+4075,1056,Network Issue,2022-09-20,Open
+4076,1057,Plan Change Request,2022-11-21,Resolved
+4077,1058,Billing Issue,2021-09-03,Open
+4078,1058,Billing Issue,2023-08-10,In Progress
+4079,1058,Plan Change Request,2022-08-08,In Progress
+4080,1059,Technical Problem,2023-10-01,Closed
+4081,1059,Plan Change Request,2023-06-01,In Progress
+4082,1059,Plan Change Request,2024-06-30,Open
+4083,1060,Payment Failure,2024-06-01,Open
+4084,1061,Service Outage,2024-10-31,Closed
+4085,1061,Billing Issue,2022-09-17,Resolved
+4086,1061,Technical Problem,2024-10-16,Resolved
+4087,1062,Payment Failure,2022-08-05,In Progress
+4088,1062,Poor Customer Support,2024-01-27,Resolved
+4089,1063,Plan Change Request,2024-03-31,Open
+4090,1063,Network Issue,2023-01-27,Resolved
+4091,1064,Network Issue,2023-09-14,In Progress
+4092,1064,Service Outage,2023-04-01,Resolved
+4093,1064,Plan Change Request,2023-12-17,Open
+4094,1065,Technical Problem,2024-06-18,Resolved
+4095,1065,Billing Issue,2024-11-20,Closed
+4096,1066,Payment Failure,2022-11-08,Resolved
+4097,1066,Service Outage,2023-07-13,In Progress
+4098,1066,Service Outage,2021-04-04,Closed
+4099,1067,Payment Failure,2023-05-02,Closed
+4100,1067,Technical Problem,2021-01-05,In Progress
+4101,1068,Payment Failure,2024-01-02,In Progress
+4102,1068,Payment Failure,2023-03-02,Open
+4103,1069,Poor Customer Support,2023-08-04,Closed
+4104,1069,Technical Problem,2024-05-24,Resolved
+4105,1069,Plan Change Request,2021-07-06,In Progress
+4106,1070,Billing Issue,2023-06-16,Open
+4107,1070,Plan Change Request,2024-07-12,In Progress
+4108,1072,Payment Failure,2023-06-11,In Progress
+4109,1073,Poor Customer Support,2024-12-24,Open
+4110,1073,Poor Customer Support,2022-01-08,Closed
+4111,1074,Technical Problem,2024-11-26,Resolved
+4112,1074,Poor Customer Support,2021-10-21,In Progress
+4113,1074,Billing Issue,2022-04-28,Resolved
+4114,1076,Billing Issue,2022-06-03,Open
+4115,1077,Payment Failure,2023-05-10,Open
+4116,1077,Billing Issue,2022-08-26,In Progress
+4117,1077,Service Outage,2023-03-26,Closed
+4118,1078,Billing Issue,2022-11-16,Resolved
+4119,1078,Service Outage,2023-06-19,Open
+4120,1079,Payment Failure,2024-04-03,In Progress
+4121,1080,Plan Change Request,2023-08-11,Open
+4122,1081,Payment Failure,2022-03-16,Resolved
+4123,1081,Plan Change Request,2024-03-20,Closed
+4124,1081,Plan Change Request,2024-09-07,Open
+4125,1082,Billing Issue,2022-02-27,Closed
+4126,1082,Technical Problem,2023-11-22,Closed
+4127,1084,Payment Failure,2023-09-16,In Progress
+4128,1084,Plan Change Request,2024-08-23,In Progress
+4129,1084,Payment Failure,2021-07-30,Resolved
+4130,1086,Payment Failure,2022-06-26,Closed
+4131,1086,Service Outage,2022-03-20,In Progress
+4132,1088,Billing Issue,2022-07-17,Closed
+4133,1088,Technical Problem,2023-09-04,Resolved
+4134,1089,Poor Customer Support,2023-10-01,In Progress
+4135,1089,Plan Change Request,2024-09-28,Resolved
+4136,1089,Technical Problem,2024-08-16,Closed
+4137,1090,Plan Change Request,2022-01-11,Closed
+4138,1090,Billing Issue,2021-07-28,Open
+4139,1091,Service Outage,2022-03-17,Open
+4140,1091,Service Outage,2021-10-10,Resolved
+4141,1094,Payment Failure,2021-04-07,Closed
+4142,1094,Plan Change Request,2024-03-19,Closed
+4143,1096,Service Outage,2021-05-11,Open
+4144,1096,Billing Issue,2025-01-10,In Progress
+4145,1096,Payment Failure,2024-03-21,In Progress
+4146,1097,Technical Problem,2021-09-29,Open
+4147,1097,Plan Change Request,2021-01-16,Resolved
+4148,1097,Billing Issue,2021-08-07,Closed
+4149,1100,Billing Issue,2023-07-02,In Progress
+4150,1100,Poor Customer Support,2021-07-17,Open
+4151,1100,Technical Problem,2022-12-22,Open
+4152,1101,Poor Customer Support,2021-05-02,Closed
+4153,1102,Billing Issue,2022-04-18,In Progress
+4154,1102,Technical Problem,2024-12-24,In Progress
+4155,1103,Poor Customer Support,2022-03-01,Open
+4156,1103,Technical Problem,2022-02-04,Open
+4157,1103,Technical Problem,2021-10-13,Open
+4158,1105,Service Outage,2021-01-25,Closed
+4159,1105,Technical Problem,2022-10-17,In Progress
+4160,1107,Technical Problem,2021-06-24,Resolved
+4161,1107,Poor Customer Support,2022-01-17,Open
+4162,1108,Plan Change Request,2022-09-06,Closed
+4163,1108,Technical Problem,2022-09-09,In Progress
+4164,1108,Network Issue,2023-11-28,In Progress
+4165,1109,Service Outage,2023-05-23,Resolved
+4166,1109,Service Outage,2024-12-10,In Progress
+4167,1110,Billing Issue,2024-03-20,Open
+4168,1110,Billing Issue,2022-05-04,Resolved
+4169,1110,Technical Problem,2021-12-29,Resolved
+4170,1111,Plan Change Request,2022-04-27,In Progress
+4171,1112,Service Outage,2023-08-31,Open
+4172,1113,Plan Change Request,2022-09-07,Closed
+4173,1114,Plan Change Request,2022-10-02,In Progress
+4174,1115,Service Outage,2023-08-19,Closed
+4175,1115,Poor Customer Support,2024-08-03,Resolved
+4176,1116,Poor Customer Support,2023-01-19,Open
+4177,1116,Service Outage,2024-12-15,Resolved
+4178,1116,Service Outage,2021-04-19,Resolved
+4179,1118,Technical Problem,2022-06-03,Open
+4180,1118,Payment Failure,2021-10-25,Closed
+4181,1118,Payment Failure,2022-04-06,Open
+4182,1119,Service Outage,2024-08-31,In Progress
+4183,1121,Technical Problem,2022-12-04,In Progress
+4184,1121,Technical Problem,2024-08-12,Resolved
+4185,1122,Network Issue,2022-01-06,Closed
+4186,1123,Billing Issue,2024-01-02,In Progress
+4187,1126,Technical Problem,2024-01-21,Resolved
+4188,1126,Plan Change Request,2023-11-27,Open
+4189,1126,Payment Failure,2022-05-16,In Progress
+4190,1127,Technical Problem,2021-07-01,Closed
+4191,1127,Poor Customer Support,2023-10-03,Closed
+4192,1127,Network Issue,2024-08-28,Closed
+4193,1128,Plan Change Request,2024-10-01,Open
+4194,1129,Billing Issue,2024-08-29,Resolved
+4195,1130,Payment Failure,2021-06-01,In Progress
+4196,1131,Plan Change Request,2024-08-05,In Progress
+4197,1131,Plan Change Request,2021-01-28,In Progress
+4198,1132,Network Issue,2024-05-20,Open
+4199,1132,Poor Customer Support,2021-08-13,In Progress
+4200,1133,Poor Customer Support,2023-07-08,In Progress
+4201,1133,Payment Failure,2021-10-17,Resolved
+4202,1133,Network Issue,2021-09-26,In Progress
+4203,1135,Service Outage,2024-11-08,Resolved
+4204,1138,Plan Change Request,2024-01-28,Resolved
+4205,1139,Payment Failure,2021-06-21,In Progress
+4206,1140,Payment Failure,2024-07-13,Open
+4207,1141,Technical Problem,2021-05-01,In Progress
+4208,1141,Technical Problem,2024-12-18,In Progress
+4209,1141,Poor Customer Support,2022-02-16,Closed
+4210,1142,Payment Failure,2022-08-28,In Progress
+4211,1143,Billing Issue,2023-08-07,Closed
+4212,1143,Plan Change Request,2022-12-13,Closed
+4213,1144,Poor Customer Support,2024-01-30,Resolved
+4214,1146,Technical Problem,2022-12-09,Resolved
+4215,1146,Plan Change Request,2021-01-03,Open
+4216,1146,Poor Customer Support,2023-05-14,Closed
+4217,1147,Service Outage,2021-03-03,Closed
+4218,1147,Network Issue,2024-11-15,Resolved
+4219,1148,Service Outage,2023-04-15,Resolved
+4220,1148,Poor Customer Support,2024-06-19,Closed
+4221,1149,Service Outage,2024-07-02,Open
+4222,1149,Poor Customer Support,2023-01-14,Closed
+4223,1150,Plan Change Request,2024-09-13,Resolved
+4224,1150,Payment Failure,2021-07-22,Resolved
+4225,1152,Poor Customer Support,2022-03-18,Open
+4226,1153,Billing Issue,2022-02-28,Closed
+4227,1153,Plan Change Request,2022-04-17,Closed
+4228,1156,Billing Issue,2021-05-20,In Progress
+4229,1156,Technical Problem,2021-05-31,Closed
+4230,1157,Billing Issue,2024-11-14,In Progress
+4231,1157,Service Outage,2021-03-17,In Progress
+4232,1158,Plan Change Request,2023-04-23,Closed
+4233,1158,Network Issue,2025-01-27,Resolved
+4234,1159,Technical Problem,2022-11-03,In Progress
+4235,1160,Network Issue,2023-02-14,Closed
+4236,1160,Payment Failure,2024-12-20,Closed
+4237,1160,Network Issue,2024-06-22,In Progress
+4238,1161,Poor Customer Support,2021-07-30,In Progress
+4239,1162,Payment Failure,2022-06-02,Open
+4240,1162,Billing Issue,2023-11-19,Open
+4241,1162,Billing Issue,2022-02-03,In Progress
+4242,1164,Payment Failure,2022-11-25,Closed
+4243,1166,Payment Failure,2022-07-13,Open
+4244,1166,Poor Customer Support,2023-09-03,In Progress
+4245,1167,Service Outage,2022-05-27,In Progress
+4246,1168,Poor Customer Support,2024-02-24,In Progress
+4247,1168,Service Outage,2024-02-21,Closed
+4248,1169,Poor Customer Support,2021-01-12,Open
+4249,1169,Poor Customer Support,2024-01-02,Closed
+4250,1170,Service Outage,2021-06-07,Closed
+4251,1170,Service Outage,2023-12-29,In Progress
+4252,1171,Billing Issue,2025-01-17,Closed
+4253,1172,Billing Issue,2023-01-30,Resolved
+4254,1172,Poor Customer Support,2023-10-11,Closed
+4255,1174,Plan Change Request,2022-07-31,Closed
+4256,1174,Service Outage,2023-05-31,Closed
+4257,1174,Payment Failure,2024-02-03,Closed
+4258,1175,Network Issue,2023-05-15,Closed
+4259,1178,Plan Change Request,2022-11-06,In Progress
+4260,1178,Billing Issue,2024-11-24,Closed
+4261,1179,Plan Change Request,2024-07-13,Closed
+4262,1179,Plan Change Request,2022-07-01,Closed
+4263,1179,Technical Problem,2021-08-12,Open
+4264,1181,Plan Change Request,2021-11-26,Open
+4265,1181,Billing Issue,2021-10-19,Resolved
+4266,1181,Service Outage,2022-04-01,Open
+4267,1182,Service Outage,2024-02-08,In Progress
+4268,1184,Plan Change Request,2022-04-02,Resolved
+4269,1184,Plan Change Request,2022-12-02,Resolved
+4270,1184,Billing Issue,2024-02-26,In Progress
+4271,1185,Technical Problem,2023-01-05,Resolved
+4272,1187,Service Outage,2024-12-05,Closed
+4273,1188,Plan Change Request,2024-01-05,Resolved
+4274,1192,Plan Change Request,2022-07-10,Resolved
+4275,1192,Payment Failure,2022-04-17,Open
+4276,1192,Billing Issue,2022-08-23,Closed
+4277,1193,Network Issue,2021-11-10,Open
+4278,1193,Payment Failure,2023-11-23,In Progress
+4279,1195,Network Issue,2024-09-04,Resolved
+4280,1195,Network Issue,2023-11-20,Open
+4281,1196,Payment Failure,2022-03-07,Resolved
+4282,1196,Network Issue,2024-12-20,Open
+4283,1196,Technical Problem,2021-03-29,Open
+4284,1198,Billing Issue,2023-06-09,Open
+4285,1199,Payment Failure,2021-07-18,Open
+4286,1199,Network Issue,2025-01-02,In Progress
+4287,1200,Billing Issue,2023-06-27,Closed
+4288,1203,Payment Failure,2024-01-09,Resolved
+4289,1203,Technical Problem,2022-04-30,Closed
+4290,1203,Plan Change Request,2022-01-29,Open
+4291,1204,Poor Customer Support,2024-12-21,Closed
+4292,1204,Billing Issue,2021-04-27,Resolved
+4293,1206,Service Outage,2021-09-30,Closed
+4294,1206,Payment Failure,2022-09-29,In Progress
+4295,1207,Plan Change Request,2023-05-13,Open
+4296,1207,Plan Change Request,2023-05-15,In Progress
+4297,1207,Technical Problem,2022-01-25,In Progress
+4298,1209,Billing Issue,2022-02-17,Closed
+4299,1209,Payment Failure,2024-08-07,Closed
+4300,1211,Technical Problem,2024-04-06,In Progress
+4301,1211,Payment Failure,2023-12-23,Resolved
+4302,1211,Billing Issue,2023-08-19,In Progress
+4303,1212,Plan Change Request,2025-01-15,Open
+4304,1212,Plan Change Request,2023-08-29,Closed
+4305,1214,Plan Change Request,2024-12-23,Resolved
+4306,1215,Poor Customer Support,2024-04-19,In Progress
+4307,1216,Service Outage,2021-12-14,Open
+4308,1216,Technical Problem,2023-11-20,Open
+4309,1217,Network Issue,2024-04-19,Resolved
+4310,1218,Poor Customer Support,2023-09-26,In Progress
+4311,1218,Poor Customer Support,2022-10-20,Open
+4312,1218,Billing Issue,2023-01-05,Resolved
+4313,1219,Plan Change Request,2024-02-26,In Progress
+4314,1219,Network Issue,2023-09-07,Open
+4315,1219,Network Issue,2023-06-23,Open
+4316,1220,Billing Issue,2024-06-17,Open
+4317,1220,Technical Problem,2021-11-24,Closed
+4318,1222,Network Issue,2024-12-28,Resolved
+4319,1222,Poor Customer Support,2023-11-01,In Progress
+4320,1224,Poor Customer Support,2023-02-17,Resolved
+4321,1224,Plan Change Request,2025-01-19,Resolved
+4322,1225,Service Outage,2024-02-06,In Progress
+4323,1225,Plan Change Request,2024-04-22,Open
+4324,1225,Payment Failure,2022-01-31,In Progress
+4325,1226,Poor Customer Support,2025-01-25,Closed
+4326,1227,Billing Issue,2024-04-02,Resolved
+4327,1227,Plan Change Request,2022-06-18,Open
+4328,1227,Billing Issue,2022-02-08,Open
+4329,1228,Network Issue,2022-08-04,Closed
+4330,1231,Plan Change Request,2024-06-04,In Progress
+4331,1231,Technical Problem,2022-01-04,Closed
+4332,1233,Payment Failure,2022-03-03,In Progress
+4333,1234,Billing Issue,2021-01-17,Open
+4334,1234,Poor Customer Support,2023-08-20,In Progress
+4335,1235,Network Issue,2024-07-22,Resolved
+4336,1235,Network Issue,2023-05-24,In Progress
+4337,1235,Plan Change Request,2025-01-28,Resolved
+4338,1236,Poor Customer Support,2024-05-21,In Progress
+4339,1236,Plan Change Request,2023-10-26,In Progress
+4340,1237,Service Outage,2023-10-21,Open
+4341,1239,Poor Customer Support,2023-03-29,In Progress
+4342,1240,Technical Problem,2024-08-06,In Progress
+4343,1241,Poor Customer Support,2022-05-29,In Progress
+4344,1241,Network Issue,2022-09-12,Closed
+4345,1242,Billing Issue,2021-06-28,Closed
+4346,1244,Payment Failure,2023-03-24,Closed
+4347,1244,Service Outage,2022-06-02,In Progress
+4348,1245,Technical Problem,2021-10-11,Open
+4349,1245,Billing Issue,2023-06-10,Closed
+4350,1245,Poor Customer Support,2021-01-09,Resolved
+4351,1246,Network Issue,2025-01-23,Closed
+4352,1246,Plan Change Request,2022-10-10,Closed
+4353,1248,Billing Issue,2023-01-26,Resolved
+4354,1248,Billing Issue,2023-06-08,Resolved
+4355,1248,Poor Customer Support,2021-11-17,In Progress
+4356,1250,Network Issue,2023-11-09,Open
+4357,1250,Plan Change Request,2024-06-06,Open
+4358,1251,Poor Customer Support,2022-09-23,Open
+4359,1251,Technical Problem,2024-09-13,Open
+4360,1251,Technical Problem,2022-09-23,Closed
+4361,1252,Poor Customer Support,2021-11-14,Closed
+4362,1252,Network Issue,2023-06-01,In Progress
+4363,1253,Technical Problem,2021-06-07,Open
+4364,1253,Technical Problem,2023-10-19,Open
+4365,1254,Poor Customer Support,2024-06-24,Open
+4366,1254,Network Issue,2024-04-09,Open
+4367,1254,Network Issue,2022-02-07,In Progress
+4368,1257,Billing Issue,2024-03-26,Resolved
+4369,1257,Poor Customer Support,2021-07-09,Closed
+4370,1257,Payment Failure,2021-05-11,In Progress
+4371,1258,Network Issue,2022-05-19,Closed
+4372,1259,Network Issue,2021-06-27,Closed
+4373,1259,Technical Problem,2025-02-03,In Progress
+4374,1260,Service Outage,2024-09-18,Open
+4375,1260,Network Issue,2024-01-12,In Progress
+4376,1260,Network Issue,2024-04-24,Resolved
+4377,1262,Technical Problem,2024-01-03,Open
+4378,1262,Plan Change Request,2022-05-22,Open
+4379,1263,Billing Issue,2024-09-20,Closed
+4380,1264,Billing Issue,2023-06-10,In Progress
+4381,1264,Poor Customer Support,2025-01-01,Resolved
+4382,1265,Service Outage,2023-01-05,In Progress
+4383,1265,Plan Change Request,2022-07-14,Open
+4384,1265,Service Outage,2023-10-27,In Progress
+4385,1266,Network Issue,2023-02-08,In Progress
+4386,1266,Network Issue,2023-02-27,In Progress
+4387,1267,Payment Failure,2023-07-09,Closed
+4388,1269,Plan Change Request,2024-05-17,Open
+4389,1269,Service Outage,2023-10-24,In Progress
+4390,1269,Service Outage,2022-03-07,Open
+4391,1273,Payment Failure,2023-06-17,Closed
+4392,1275,Poor Customer Support,2025-01-14,Closed
+4393,1275,Billing Issue,2024-02-28,Resolved
+4394,1275,Poor Customer Support,2022-02-28,Resolved
+4395,1276,Plan Change Request,2022-03-24,Closed
+4396,1276,Network Issue,2023-11-29,Resolved
+4397,1278,Payment Failure,2023-04-15,Open
+4398,1278,Service Outage,2022-07-10,Closed
+4399,1280,Service Outage,2024-01-25,Closed
+4400,1280,Billing Issue,2021-05-21,Open
+4401,1281,Billing Issue,2022-03-30,Closed
+4402,1281,Poor Customer Support,2025-02-07,Closed
+4403,1281,Technical Problem,2023-09-25,In Progress
+4404,1282,Technical Problem,2022-03-17,Closed
+4405,1283,Network Issue,2025-02-01,In Progress
+4406,1284,Network Issue,2021-10-09,In Progress
+4407,1284,Poor Customer Support,2023-09-15,Open
+4408,1285,Network Issue,2024-01-20,Closed
+4409,1285,Plan Change Request,2023-08-07,Resolved
+4410,1285,Poor Customer Support,2021-04-12,In Progress
+4411,1286,Network Issue,2024-11-08,Open
+4412,1288,Network Issue,2023-05-21,Open
+4413,1288,Technical Problem,2024-10-30,Closed
+4414,1288,Payment Failure,2023-07-04,In Progress
+4415,1289,Plan Change Request,2023-04-17,Closed
+4416,1290,Network Issue,2021-12-25,Open
+4417,1290,Plan Change Request,2021-10-11,Resolved
+4418,1291,Technical Problem,2023-12-14,Open
+4419,1291,Network Issue,2021-02-15,Closed
+4420,1292,Payment Failure,2021-03-09,Closed
+4421,1292,Payment Failure,2021-06-29,Closed
+4422,1293,Poor Customer Support,2024-09-17,Closed
+4423,1294,Billing Issue,2023-12-16,In Progress
+4424,1296,Network Issue,2024-08-14,Closed
+4425,1298,Network Issue,2021-10-30,Open
+4426,1298,Plan Change Request,2022-03-29,Closed
+4427,1298,Plan Change Request,2021-08-17,Open
+4428,1299,Service Outage,2024-10-07,Resolved
+4429,1301,Poor Customer Support,2024-06-23,In Progress
+4430,1302,Technical Problem,2024-07-06,Open
+4431,1302,Plan Change Request,2021-01-05,Resolved
+4432,1302,Poor Customer Support,2022-07-14,Closed
+4433,1303,Poor Customer Support,2023-08-15,Resolved
+4434,1304,Technical Problem,2021-12-05,In Progress
+4435,1304,Billing Issue,2022-12-09,Open
+4436,1304,Plan Change Request,2021-03-02,Closed
+4437,1305,Technical Problem,2021-11-18,In Progress
+4438,1305,Technical Problem,2021-07-25,Open
+4439,1306,Service Outage,2022-10-21,Open
+4440,1306,Service Outage,2021-04-29,Closed
+4441,1306,Plan Change Request,2023-12-11,Closed
+4442,1307,Billing Issue,2022-05-31,Resolved
+4443,1307,Plan Change Request,2023-07-15,In Progress
+4444,1308,Technical Problem,2021-01-16,Closed
+4445,1308,Service Outage,2023-07-01,Closed
+4446,1308,Payment Failure,2022-08-09,In Progress
+4447,1309,Network Issue,2025-02-05,In Progress
+4448,1309,Network Issue,2025-02-07,Resolved
+4449,1309,Billing Issue,2025-01-09,Closed
+4450,1310,Poor Customer Support,2021-01-02,In Progress
+4451,1310,Technical Problem,2022-07-14,Resolved
+4452,1310,Technical Problem,2024-03-11,Resolved
+4453,1314,Network Issue,2023-01-12,Closed
+4454,1314,Plan Change Request,2021-09-17,In Progress
+4455,1314,Payment Failure,2023-07-30,Resolved
+4456,1315,Poor Customer Support,2024-06-24,Resolved
+4457,1315,Technical Problem,2024-04-06,Open
+4458,1316,Technical Problem,2023-07-19,Open
+4459,1316,Payment Failure,2023-08-24,Open
+4460,1317,Billing Issue,2022-03-08,Resolved
+4461,1317,Billing Issue,2022-09-02,In Progress
+4462,1317,Network Issue,2021-06-12,Closed
+4463,1318,Technical Problem,2023-09-16,Open
+4464,1319,Network Issue,2024-09-08,Closed
+4465,1319,Service Outage,2024-09-11,In Progress
+4466,1322,Network Issue,2022-08-20,Closed
+4467,1323,Network Issue,2021-12-31,Resolved
+4468,1324,Poor Customer Support,2024-11-28,Open
+4469,1324,Payment Failure,2024-04-10,Open
+4470,1325,Plan Change Request,2022-09-02,Open
+4471,1325,Network Issue,2024-12-06,Resolved
+4472,1326,Billing Issue,2022-02-07,Resolved
+4473,1326,Billing Issue,2022-08-03,In Progress
+4474,1327,Poor Customer Support,2021-05-11,Open
+4475,1327,Plan Change Request,2021-07-09,Closed
+4476,1327,Poor Customer Support,2024-01-27,Closed
+4477,1328,Payment Failure,2025-01-29,Closed
+4478,1328,Service Outage,2023-10-07,Open
+4479,1328,Technical Problem,2024-12-07,Closed
+4480,1329,Billing Issue,2023-03-13,Closed
+4481,1329,Service Outage,2021-10-04,Resolved
+4482,1333,Billing Issue,2024-09-06,In Progress
+4483,1333,Payment Failure,2022-12-12,Resolved
+4484,1333,Network Issue,2021-10-08,In Progress
+4485,1334,Plan Change Request,2022-03-09,Closed
+4486,1334,Poor Customer Support,2022-10-20,Closed
+4487,1336,Service Outage,2022-11-06,Resolved
+4488,1336,Technical Problem,2023-10-31,Resolved
+4489,1336,Service Outage,2023-07-28,In Progress
+4490,1338,Plan Change Request,2021-04-01,In Progress
+4491,1338,Network Issue,2024-05-26,Closed
+4492,1338,Billing Issue,2021-01-30,In Progress
+4493,1341,Network Issue,2023-07-22,In Progress
+4494,1345,Plan Change Request,2022-03-09,Resolved
+4495,1345,Network Issue,2023-06-30,Open
+4496,1347,Billing Issue,2022-07-12,Resolved
+4497,1347,Network Issue,2023-09-17,In Progress
+4498,1348,Technical Problem,2024-11-16,Open
+4499,1349,Payment Failure,2022-08-24,Open
+4500,1349,Network Issue,2021-02-01,In Progress
+4501,1350,Plan Change Request,2022-02-15,In Progress
+4502,1350,Poor Customer Support,2023-08-15,In Progress
+4503,1351,Payment Failure,2022-07-02,Open
+4504,1351,Service Outage,2024-04-05,Resolved
+4505,1352,Payment Failure,2022-06-13,In Progress
+4506,1352,Network Issue,2024-06-04,Resolved
+4507,1352,Poor Customer Support,2023-01-04,Resolved
+4508,1354,Poor Customer Support,2021-04-05,Resolved
+4509,1357,Plan Change Request,2024-02-09,Closed
+4510,1357,Network Issue,2023-05-06,Resolved
+4511,1357,Plan Change Request,2023-10-10,Resolved
+4512,1358,Network Issue,2023-10-30,In Progress
+4513,1358,Poor Customer Support,2024-03-22,Closed
+4514,1358,Service Outage,2023-06-14,Closed
+4515,1360,Poor Customer Support,2024-07-01,In Progress
+4516,1360,Poor Customer Support,2021-06-23,In Progress
+4517,1360,Billing Issue,2022-04-02,Closed
+4518,1361,Plan Change Request,2024-11-23,Resolved
+4519,1362,Billing Issue,2024-03-12,Closed
+4520,1362,Technical Problem,2022-12-25,Resolved
+4521,1363,Billing Issue,2022-10-13,Closed
+4522,1363,Billing Issue,2024-08-02,In Progress
+4523,1364,Technical Problem,2024-09-18,Resolved
+4524,1364,Network Issue,2024-02-24,Open
+4525,1365,Billing Issue,2021-07-28,In Progress
+4526,1365,Network Issue,2024-07-18,In Progress
+4527,1365,Plan Change Request,2021-12-02,Closed
+4528,1367,Network Issue,2023-01-19,Resolved
+4529,1367,Plan Change Request,2023-04-06,Closed
+4530,1368,Plan Change Request,2021-02-10,Open
+4531,1368,Service Outage,2021-02-23,In Progress
+4532,1368,Payment Failure,2021-02-03,In Progress
+4533,1369,Technical Problem,2024-07-05,Resolved
+4534,1370,Plan Change Request,2022-06-02,Open
+4535,1373,Plan Change Request,2022-06-22,Resolved
+4536,1373,Payment Failure,2021-02-25,Open
+4537,1373,Billing Issue,2024-03-02,Closed
+4538,1374,Plan Change Request,2024-03-06,Open
+4539,1374,Poor Customer Support,2021-11-16,Resolved
+4540,1374,Billing Issue,2021-03-09,Resolved
+4541,1375,Billing Issue,2021-11-01,In Progress
+4542,1375,Technical Problem,2025-01-19,Resolved
+4543,1376,Service Outage,2024-02-10,In Progress
+4544,1376,Billing Issue,2023-01-15,Open
+4545,1376,Plan Change Request,2021-12-13,Closed
+4546,1377,Service Outage,2022-11-21,Resolved
+4547,1378,Payment Failure,2024-06-15,In Progress
+4548,1378,Network Issue,2022-07-20,Resolved
+4549,1378,Poor Customer Support,2021-08-23,In Progress
+4550,1379,Billing Issue,2024-07-15,Open
+4551,1379,Billing Issue,2024-01-29,Resolved
+4552,1380,Payment Failure,2023-06-03,Open
+4553,1380,Poor Customer Support,2022-10-26,Open
+4554,1381,Plan Change Request,2024-10-01,Resolved
+4555,1381,Poor Customer Support,2021-12-03,In Progress
+4556,1381,Service Outage,2024-06-21,In Progress
+4557,1382,Poor Customer Support,2024-12-17,Closed
+4558,1382,Poor Customer Support,2023-03-11,Closed
+4559,1384,Plan Change Request,2021-10-21,Open
+4560,1384,Service Outage,2024-05-27,Resolved
+4561,1385,Plan Change Request,2021-07-19,Closed
+4562,1385,Payment Failure,2022-09-06,Resolved
+4563,1385,Poor Customer Support,2023-09-22,In Progress
+4564,1386,Network Issue,2021-12-19,Closed
+4565,1386,Technical Problem,2022-03-18,Closed
+4566,1386,Plan Change Request,2021-04-11,Open
+4567,1387,Plan Change Request,2022-04-22,Open
+4568,1387,Technical Problem,2023-04-02,In Progress
+4569,1387,Billing Issue,2024-03-10,Open
+4570,1388,Service Outage,2021-05-19,Closed
+4571,1390,Network Issue,2021-06-06,In Progress
+4572,1390,Payment Failure,2021-08-18,In Progress
+4573,1392,Billing Issue,2021-11-20,Closed
+4574,1392,Billing Issue,2022-06-16,In Progress
+4575,1392,Billing Issue,2021-08-03,In Progress
+4576,1393,Poor Customer Support,2024-02-08,Closed
+4577,1394,Network Issue,2022-01-07,Resolved
+4578,1396,Poor Customer Support,2024-06-07,Resolved
+4579,1396,Service Outage,2022-09-09,Closed
+4580,1398,Poor Customer Support,2021-07-08,Open
+4581,1398,Technical Problem,2024-04-05,Open
+4582,1399,Plan Change Request,2023-02-28,Open
+4583,1399,Network Issue,2022-05-30,Resolved
+4584,1400,Plan Change Request,2023-12-26,Open
+4585,1401,Plan Change Request,2024-09-25,Open
+4586,1401,Plan Change Request,2023-05-07,Resolved
+4587,1401,Network Issue,2023-10-04,Open
+4588,1402,Payment Failure,2022-05-23,In Progress
+4589,1402,Billing Issue,2024-12-04,Resolved
+4590,1402,Network Issue,2023-07-21,Resolved
+4591,1403,Technical Problem,2022-02-08,Resolved
+4592,1403,Technical Problem,2024-09-06,Resolved
+4593,1403,Poor Customer Support,2024-12-20,Closed
+4594,1404,Plan Change Request,2023-08-22,Open
+4595,1404,Payment Failure,2021-01-22,Resolved
+4596,1405,Billing Issue,2023-04-11,Open
+4597,1405,Network Issue,2023-04-03,Open
+4598,1406,Plan Change Request,2021-12-26,Open
+4599,1406,Service Outage,2025-01-13,Closed
+4600,1406,Billing Issue,2025-01-03,Closed
+4601,1408,Technical Problem,2021-05-14,Resolved
+4602,1409,Network Issue,2024-12-30,Resolved
+4603,1410,Network Issue,2022-05-21,In Progress
+4604,1410,Service Outage,2021-03-10,Resolved
+4605,1410,Technical Problem,2021-05-24,Resolved
+4606,1411,Billing Issue,2023-04-25,Open
+4607,1411,Service Outage,2022-04-12,Resolved
+4608,1412,Poor Customer Support,2021-06-15,In Progress
+4609,1413,Plan Change Request,2021-02-20,Open
+4610,1414,Payment Failure,2021-01-15,Open
+4611,1415,Network Issue,2022-03-06,In Progress
+4612,1415,Billing Issue,2021-08-27,In Progress
+4613,1415,Network Issue,2024-03-28,Open
+4614,1416,Payment Failure,2021-12-11,Closed
+4615,1416,Network Issue,2021-10-30,Resolved
+4616,1416,Poor Customer Support,2023-12-22,In Progress
+4617,1417,Poor Customer Support,2024-01-09,Resolved
+4618,1417,Service Outage,2024-03-28,Closed
+4619,1418,Billing Issue,2021-12-12,In Progress
+4620,1418,Network Issue,2022-03-08,Open
+4621,1418,Billing Issue,2022-02-23,Resolved
+4622,1419,Billing Issue,2021-09-25,Open
+4623,1419,Plan Change Request,2022-10-11,Resolved
+4624,1419,Service Outage,2023-05-27,Open
+4625,1420,Payment Failure,2024-11-11,Open
+4626,1421,Network Issue,2023-06-01,Resolved
+4627,1421,Plan Change Request,2022-05-05,Closed
+4628,1423,Billing Issue,2024-08-27,In Progress
+4629,1423,Network Issue,2021-03-06,In Progress
+4630,1423,Poor Customer Support,2024-03-08,Open
+4631,1424,Network Issue,2023-07-17,Open
+4632,1424,Payment Failure,2021-11-29,In Progress
+4633,1424,Service Outage,2023-11-02,Open
+4634,1425,Billing Issue,2023-07-04,Resolved
+4635,1425,Technical Problem,2024-10-19,Open
+4636,1425,Billing Issue,2021-09-14,Resolved
+4637,1427,Technical Problem,2021-02-24,In Progress
+4638,1427,Payment Failure,2022-12-09,Closed
+4639,1427,Network Issue,2023-06-11,Closed
+4640,1428,Payment Failure,2022-08-28,Closed
+4641,1430,Technical Problem,2023-02-02,In Progress
+4642,1432,Network Issue,2021-03-10,Closed
+4643,1432,Service Outage,2024-06-27,Closed
+4644,1432,Service Outage,2024-04-19,Open
+4645,1433,Billing Issue,2023-09-03,Open
+4646,1435,Technical Problem,2024-06-12,Open
+4647,1435,Poor Customer Support,2023-02-09,Resolved
+4648,1437,Service Outage,2024-03-26,Resolved
+4649,1438,Technical Problem,2024-10-15,In Progress
+4650,1439,Billing Issue,2022-04-20,Open
+4651,1439,Poor Customer Support,2021-12-23,Resolved
+4652,1440,Plan Change Request,2021-12-14,In Progress
+4653,1441,Poor Customer Support,2021-11-23,Open
+4654,1442,Billing Issue,2023-02-22,Resolved
+4655,1442,Technical Problem,2021-11-21,Resolved
+4656,1444,Technical Problem,2022-02-24,Closed
+4657,1444,Service Outage,2022-01-26,Open
+4658,1444,Billing Issue,2023-10-25,Closed
+4659,1445,Payment Failure,2022-03-07,Resolved
+4660,1445,Payment Failure,2022-11-16,Open
+4661,1445,Payment Failure,2023-03-12,Resolved
+4662,1446,Billing Issue,2024-01-04,In Progress
+4663,1447,Service Outage,2023-08-13,In Progress
+4664,1447,Plan Change Request,2024-02-06,Resolved
+4665,1448,Poor Customer Support,2022-07-09,In Progress
+4666,1448,Billing Issue,2024-11-25,Resolved
+4667,1449,Technical Problem,2024-05-04,Closed
+4668,1449,Network Issue,2021-01-22,Open
+4669,1450,Service Outage,2021-12-11,Closed
+4670,1450,Billing Issue,2023-01-23,Resolved
+4671,1450,Service Outage,2021-07-25,Closed
+4672,1452,Plan Change Request,2022-12-13,Open
+4673,1452,Technical Problem,2024-11-25,In Progress
+4674,1452,Network Issue,2021-05-25,Closed
+4675,1453,Service Outage,2025-01-22,Open
+4676,1454,Payment Failure,2021-07-06,Resolved
+4677,1454,Service Outage,2024-11-08,Open
+4678,1454,Payment Failure,2024-05-29,In Progress
+4679,1457,Poor Customer Support,2022-10-26,Open
+4680,1457,Poor Customer Support,2022-03-13,In Progress
+4681,1457,Plan Change Request,2024-01-24,Resolved
+4682,1458,Technical Problem,2022-01-12,Open
+4683,1458,Network Issue,2023-08-05,Open
+4684,1461,Network Issue,2023-07-05,Open
+4685,1461,Service Outage,2022-03-10,Resolved
+4686,1461,Network Issue,2022-05-14,Closed
+4687,1462,Billing Issue,2021-03-02,Resolved
+4688,1462,Payment Failure,2023-10-29,Closed
+4689,1462,Network Issue,2021-10-12,Open
+4690,1464,Technical Problem,2023-11-27,Closed
+4691,1465,Network Issue,2023-05-18,Closed
+4692,1465,Technical Problem,2023-03-22,In Progress
+4693,1466,Payment Failure,2024-06-17,Resolved
+4694,1466,Billing Issue,2022-10-06,Resolved
+4695,1467,Poor Customer Support,2021-11-30,Resolved
+4696,1467,Plan Change Request,2021-11-01,Resolved
+4697,1467,Network Issue,2023-12-30,Open
+4698,1468,Service Outage,2023-07-05,In Progress
+4699,1468,Service Outage,2022-06-02,Open
+4700,1469,Billing Issue,2022-06-19,Closed
+4701,1469,Plan Change Request,2022-06-23,Open
+4702,1469,Billing Issue,2022-02-28,In Progress
+4703,1470,Service Outage,2023-11-19,Closed
+4704,1470,Billing Issue,2024-12-23,In Progress
+4705,1471,Poor Customer Support,2023-11-08,Open
+4706,1471,Poor Customer Support,2021-09-09,Resolved
+4707,1472,Plan Change Request,2024-06-28,Resolved
+4708,1472,Billing Issue,2021-07-19,Closed
+4709,1473,Technical Problem,2024-08-05,Closed
+4710,1473,Network Issue,2021-01-22,Closed
+4711,1473,Payment Failure,2025-01-22,Open
+4712,1475,Technical Problem,2023-11-12,Open
+4713,1475,Poor Customer Support,2024-09-11,Closed
+4714,1475,Plan Change Request,2021-11-11,Open
+4715,1477,Plan Change Request,2023-04-22,Closed
+4716,1477,Technical Problem,2025-02-04,Closed
+4717,1477,Payment Failure,2024-10-01,Closed
+4718,1478,Service Outage,2022-09-12,In Progress
+4719,1478,Poor Customer Support,2022-09-24,In Progress
+4720,1480,Poor Customer Support,2021-11-06,Resolved
+4721,1481,Service Outage,2024-08-30,Resolved
+4722,1481,Billing Issue,2024-02-29,Closed
+4723,1482,Payment Failure,2021-05-11,Resolved
+4724,1483,Plan Change Request,2022-12-01,Open
+4725,1484,Network Issue,2022-09-15,Closed
+4726,1484,Network Issue,2021-06-07,Closed
+4727,1484,Plan Change Request,2022-01-08,In Progress
+4728,1485,Billing Issue,2021-07-14,In Progress
+4729,1487,Network Issue,2022-08-24,Closed
+4730,1488,Billing Issue,2023-07-22,Closed
+4731,1488,Service Outage,2022-11-16,Resolved
+4732,1489,Billing Issue,2021-11-29,Closed
+4733,1489,Billing Issue,2024-11-20,Open
+4734,1490,Network Issue,2021-02-21,Resolved
+4735,1490,Payment Failure,2023-03-22,In Progress
+4736,1490,Billing Issue,2022-10-26,Resolved
+4737,1491,Service Outage,2021-10-06,Open
+4738,1491,Plan Change Request,2024-03-11,Closed
+4739,1495,Plan Change Request,2023-10-27,Resolved
+4740,1495,Service Outage,2022-10-25,Open
+4741,1495,Technical Problem,2022-01-13,Resolved
+4742,1496,Technical Problem,2022-03-24,In Progress
+4743,1496,Service Outage,2021-10-01,In Progress
+4744,1497,Payment Failure,2024-12-05,Resolved
+4745,1498,Billing Issue,2021-04-30,Resolved
+4746,1499,Service Outage,2024-05-28,Resolved
+4747,1499,Technical Problem,2021-12-21,Closed
+4748,1499,Billing Issue,2023-09-19,Open
+4749,1500,Service Outage,2022-07-05,Closed
